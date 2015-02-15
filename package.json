@@ -1,0 +1,19 @@
+{
+  "name": "ab-url-util",
+  "version": "0.0.1",
+  "description": "URL Utilities",
+  "main": "index.js",
+  "keywords": [
+    "url"
+  ],
+  "license": "MIT",
+  "author": "Antonio Brandao <antoniobrandaodesign@gmail.com> (http://www.antoniobrandao.com/)",
+  "homepage": "https://github.com/antoniobrandao/ab-url-util",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antoniobrandao/ab-url-util"
+  },
+  "bugs": {
+    "url": "https://github.com/antoniobrandao/ab-url-util/issues"
+  }
+}
