@@ -1,7 +1,7 @@
 'use strict';
 
-module.exports = function() 
-{
+module.exports = {
+
 	getParameterByName: function(name) 
 	{
 	    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
