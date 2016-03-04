@@ -1,6 +1,6 @@
 {
   "name": "ab-url-util",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "URL Utilities",
   "main": "index.js",
   "keywords": [
